@@ -1,0 +1,9 @@
+{
+    "root_dir": "/net/projects/amfam/data/dumitrux-architectural-styles-dataset",
+    "where_to_save_checkpoint_path": "/net/projects/amfam/baseline/ignore_this_output.pth",
+    "image_size": 224,
+    "batch_size": 32,
+    "epochs": 2,
+    "learning_rate": 0.001,
+    "resnet": 18
+}
